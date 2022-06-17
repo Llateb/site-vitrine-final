@@ -148,4 +148,9 @@ footer #contact{
     footer{
         padding: 30px;
     }
+    tableau{
+		height: 200px;
+		width: 100%;
+		margin-top: 10px;
+	}
 }
